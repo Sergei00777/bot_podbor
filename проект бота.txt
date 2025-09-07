@@ -1,0 +1,22 @@
+bot_podbor/
+│
+├── main.py
+├── config.py
+├── requirements.txt
+│
+├── handlers/
+│   ├── __init__.py
+│   ├── start.py
+│   ├── about.py
+│   ├── contacts.py
+│   ├── manager.py
+│   ├── application.py
+│   └── unknown.py
+│
+├── keyboards/
+│   ├── __init__.py
+│   └── main_menu.py
+│
+└── utils/
+    ├── __init__.py
+    └── states.py
